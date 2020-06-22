@@ -1,2 +1,0 @@
-# web-component
-Begin app
